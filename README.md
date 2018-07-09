@@ -1,5 +1,10 @@
 ## Linux-shell-pimping
 
+### Introduction
+Do you want your shell to look like this?
+
+![screen](https://github.com/jonaagenilsen/Linux-shell-pimping/blob/master/linux_shell.png)
+
 ### Howto
 1. Put the following in your `~/.bashrc` file:
 ```
@@ -13,5 +18,3 @@ PS1='\[\033[1;33m\]\u\[\033[1;37m\]@\[\033[1;32m\]\H\[\033[1;31m\] \w\[\033[1;36
 ```
 
 Check enclosed files in this repository for example and how it should be.
-
-### Screenshot
