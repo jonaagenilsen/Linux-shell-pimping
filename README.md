@@ -21,3 +21,5 @@ PS1='\[\033[1;33m\]\u\[\033[1;37m\]@\[\033[1;32m\]\H\[\033[1;31m\] \w\[\033[1;36
 Check enclosed files in this repository for examples, and how your files should be.
 
 **TIP**: paste those lines of code above directly in shell for it to work immediately. Else it won't work until you logout/login again.
+
+https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/
