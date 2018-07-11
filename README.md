@@ -1,4 +1,4 @@
-## Linux-shell-pimping
+## Linux shell pimping
 
 ### Introduction
 Do you want your shell to look like this?
